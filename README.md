@@ -8,6 +8,9 @@ Am originally from Ghana but am now living in Hamburg "Germany"
 - 💬 Ask me anything about Computer hardware, am here for you.
 - 📫 You can reach me by email(vincnetowus595@gmai.com) and on my personal number(+4917631607268).
 - 😄 Pronouns: Programmer
-- ⚡ I really love going to the Cinema and (love Hi-life, Afrotrap and Country music).
+- ⚡ I really love going to the Cinema and (love Hi-life, Afrotrap and Country music).![Alt text](image-1.png)
+
+
 -🤔 I’m looking for help on my dream as Estate Developer and on my Python career.
+
 ![Alt text](image.png)
